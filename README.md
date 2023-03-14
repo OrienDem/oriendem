@@ -16,8 +16,4 @@
 <h2>🤳Connect with me:</h2>
 
 
-[<img align="left" alt="Orien | LinkedIn" width="22px" src=" " />][linkedin]
-
-
-
-[linkedin]: https://linkedin.com/in/
+<img align="left" alt="OrienDem | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
