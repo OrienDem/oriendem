@@ -10,7 +10,7 @@
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/OrienDem/ConfigActiveDirectoryAzureVMs)
   - [Network-File-Shares-and-Permissions](https://github.com/OrienDem/Network-File-Shares-and-Permissions)
-
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/OrienDem/NSGinspectingTrafficBetweenVMs)
 
 
 <h2>🤳Connect with me:</h2>
