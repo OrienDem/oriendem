@@ -1,4 +1,4 @@
-<h1>Hi, I'm Orien, an <a href="https://linkedin.com">IT Professional</a></h1>
+<h1>Hi, I'm Orien, an <a href="https://www.linkedin.com/in/orienintech/">IT Professional</a></h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
